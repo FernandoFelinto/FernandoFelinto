@@ -3,8 +3,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.felinto.1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felinto-700715236/)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoFelinto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoFelinto)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/FernandoFelinto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoFelinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoFelinto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block"><br>
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
