@@ -2,9 +2,15 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.felinto.1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felinto-700715236/)
+<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="capa" height="1080px" width="1080px" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"/>
+</div>
+<br>
 <div style="display: inline_block"><br>
   <img align="right" alt="tux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
+<br>
 <div align="center">
   <a href="https://github.com/FernandoFelinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoFelinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
