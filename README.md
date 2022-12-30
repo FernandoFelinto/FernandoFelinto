@@ -6,7 +6,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="capa" height="1080px" width="1080px" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"/>
 </div>
-<br>
 <div style="display: inline_block"><br>
   <img align="right" alt="tux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
