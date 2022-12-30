@@ -10,7 +10,7 @@
   <img align="right" alt="tux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/FernandoFelinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoFelinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoFelinto&layout=compact&langs_count=7&theme=tokyonight"/>
