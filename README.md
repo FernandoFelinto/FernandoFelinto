@@ -2,6 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.felinto.1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felinto-700715236/)
+<a href="https://www.instagram.com/fernandofelinto_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="capa" height="1080px" width="1080px" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"/>
